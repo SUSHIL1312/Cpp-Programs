@@ -1,2 +1,2 @@
 # Cpp-Programs
-These programs were written by me, as my course-Assignments and for other purposes.
+These programs were written by me, for my course-Assignments.
